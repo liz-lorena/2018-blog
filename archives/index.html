@@ -1,0 +1,18 @@
+---
+layout: default
+title: Archives | 
+---
+
+<h1>Archives</h1>
+
+<p><first-letter>T</first-letter>his is an archive of blog posts separated by year and month.</p>
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% if currentdate != date %}
+    <h2 id="{{ currentdate }}">{{ currentdate }}</h2>
+    {% assign date = currentdate %} 
+  {% endif %}
+    <p><a href="{{ site.url }}/blog{{ post.url }}">{{ post.title }}</a></p>
+{% endfor %}
+

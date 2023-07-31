@@ -1,0 +1,30 @@
+---
+layout: default
+title: Personal Posts | 
+---
+
+<h1>Personal Posts</h1>
+
+<p><first-letter>T</first-letter>his page showcases posts about important things in my life.</p>
+<br>
+<br>
+
+{% for post in site.categories.personal %}
+
+<div class="post">
+	<a href="{{ site.url }}/2018-blog{{ post.url }}">
+	<!--<img src="{{ site.baseurl }}/img/{{ post.img }}" class="featured-img img-fluid">-->
+	</a>
+	<div class="header">
+		<p class="categories"><span class="cat">In </span><a href="{{ site.url }}/2018-blog/{{ post.categories[0] }}">{{ post.categories[0] }}</a></p>
+		<a href="{{ site.url }}/2018-blog{{ post.url }}">
+			<h1>{{ post.title }}</h1>			
+		</a>
+		<p class="date">{{ post.date | date_to_string }}</p>
+	</div>
+	<p class="excerpt">{{ post.excerpt }}<br><br>
+		<a href="{{ site.url }}/2018-blog{{ post.url }}">Read more →</a>
+	</p>
+</div>
+
+{% endfor %}

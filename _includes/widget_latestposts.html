@@ -1,0 +1,20 @@
+<div class="widget">
+	<div class="widget-title"><h3>Latest Posts</h3></div>
+	<div class="widget-body">
+
+		<div style="margin-top: 30px;">
+		{% for post in site.posts limit:5 %}
+		<div class="latest-post">
+		<!--<img src="/img/{{ post.img }}" class="latest img-fluid">-->
+		<a href="{{ site.url }}/2018-blog{{ post.url }}">	
+		<div class="latest">		
+			<h6>{{ post.date | date_to_string }}</h6>
+			<h2>{{ post.title | strip_html | truncatewords: 6 }}</h2>
+		</div>
+		</a>
+	</div>
+		{% endfor %}
+	</div>
+
+	</div>
+</div>

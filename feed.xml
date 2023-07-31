@@ -1,0 +1,31 @@
+---
+layout: none
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <image>
+      <url>{{ site.url }}/blog/rss.png</url>
+      <title>{{ site.title }}</title>
+      <link>{{ site.url }}/blog</link>
+    </image>
+    <title>{{ site.title }}</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <language>{{ site.language }}</language>
+    {% for post in site.posts limit:10 %}
+    <item>
+      <category>{{ post.categories[0] }}</category>
+      <title>{{ post.title }}</title>
+      <description>
+        {{ post.excerpt | escape | truncate: '400' }}
+      </description>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <link>{{ post.url | prepend: site.url }}</link>
+      <guid>{{ post.url | prepend: site.url }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

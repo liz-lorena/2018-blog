@@ -1,0 +1,19 @@
+<div class="widget">
+	<div class="widget-title"><h3>Blog Stats</h3></div>
+	<div class="widget-body">
+		<p>This Blog has <strong><span>
+
+
+			{% assign counter = 0 %}
+			{% for post in site.posts %}		
+			{% assign counter = counter | plus: 1 %}
+			{% endfor %}
+			{{ counter }}
+
+
+		</span> posts</strong>. It was started on&nbsp;<strong>28 July 2018</strong>, and the latest post was on <strong><span>
+
+			{% for post in site.posts limit:1 %}
+		{{ post.date | date: "%-d %B %Y" }}{% endfor %}</span></strong>. The website was last updated <strong>{{ site.time | date: "%-d %B %Y" }}</strong>.</p>
+	</div>
+</div>

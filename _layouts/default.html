@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-3391448313591639",
+          enable_page_level_ads: true
+     });
+</script>-->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123712244-14"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-123712244-14'); 
+</script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="keywords" content="Web developer, designer, front end developer, portfolio, resume">
+  <meta name="author" content="{{ site.author_name }}">
+  <meta name="twitter" content="{{ site.twitter_username }}">
+  <meta name="github" content="{{ site.github_username }}">
+
+  <title>{{page.title}} {{ site.title }}</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet"> 
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+
+  <script src="//static.tumblr.com/ihhnoee/12Cotb0p2/jquery.style-my-tooltips.js"></script>
+
+  <script>
+    (function($){
+      $(document).ready(function(){
+        $("a[title]").style_my_tooltips({
+          tip_follows_cursor:false,
+          tip_delay_time:100,
+          tip_fade_speed:300,
+          attribute:"title"
+        });
+      });
+    })(jQuery);
+  </script>
+
+  <script>
+    $(document).ready(function(){
+
+      $("a i.fa-times").click(function(){
+        $("div.modal").removeClass("show");
+        $("div.modal2").removeClass("show");
+      });
+
+      $("a#creds").click(function(){
+        $("div.modal2").addClass("show");
+      });
+    });
+  </script>
+  <link href="/2018-blog/cssreset.css" rel="stylesheet">
+  <link href="/2018-blog/index.css" rel="stylesheet">
+  <link rel="shortcut icon" type="image/x-icon" href="/img/sitewideimg.png">
+
+</head>
+<body>
+
+  <div id="mobile-header">
+
+    <div id="drop-header">
+      <div class="dropdown">
+        <span><i class="fas fa-chevron-down"></i></span>
+        <div class="dropdown-content">
+          {% include mainmenu.html %}
+        </div>
+      </div> 
+    </div>
+
+    <h1 id="title"><a href="{{ site.url }}/2018-blog">Blog by Lys</a></h1>
+
+    <div id="top-menu-right">
+      <ul>
+        {% include socials.html %}
+        <!-- <li><a href="/es/" title="Español"><i class="fa fa-globe"></i>
+        </a></li> -->
+      </ul>
+    </div>
+
+  </div>
+
+  <div id="header">
+    <div id="top-menu-left">
+      {% include mainmenu.html %}
+      
+    </div>
+    <div id="top-menu-right">
+      <ul>
+        {% include socials.html %}
+        <!-- <li><a href="/es/" title="Español"><i class="fa fa-globe"></i>
+        </a></li> -->
+      </ul>
+    </div>
+    <div id="title">
+      <h1><a href="{{ site.url }}/2018-blog">Blog by Lys</a></h1>
+    </div>
+
+
+  </div>
+
+  <div id="mobile-menu">
+    <div class="dropdown">
+      <span><i class="fas fa-chevron-down"></i></span>
+      <div class="dropdown-content">
+        {% include categories.html %}
+      </div>
+    </div> 
+  </div>
+  <div id="menu">
+
+    {% include categories.html %}
+
+  </div>
+  <div class="container-fluid">
+    <div id="main-area">
+
+      <div class="move">
+        <div id="aside">
+          {% include widget_about.html %}
+          {% include widget_contact.html %}
+        </div>
+      </div>
+
+      <div id="content">
+        <div id="center">
+          {{content}}
+        </div>
+      </div>
+      <div id="aside">
+
+        {% include widget_search.html %}
+        {% include widget_latestposts.html %}
+        {% include widget_archives.html %}
+        {% include widget_stats.html %}
+        {% include widget_support.html %}
+
+        <div class="move">
+          {% include widget_about.html %}
+          {% include widget_contact.html %}
+        </div>
+        
+      </div>
+      
+    </div>
+  </div>
+  <div id="footer">
+    <div id="footer-widgets">
+
+      {% include credits.html %}
+      
+    </div>
+
+  </div>
+
+  <script src="{{ site.url }}/2018-blog/index.js"></script>
+</body>
+</html>
