@@ -701,7 +701,7 @@ div#content ul li::before, div.login2 ul li::before {
 	padding-bottom: 3%;
 }
 form.email::before {
-	content: "lys@irisoflys.com";
+	content: "liz@lizlorena.com";
 	display: block;
 	bottom: 0;
 	color: white;
