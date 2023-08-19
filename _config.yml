@@ -1,12 +1,10 @@
 # Site Info
-title:              "Blog of Lys"
-description:        "This is the old blog of Lys."
+title:              "Blog of Liz"
+description:        "This is the old blog of Liz."
 
 # Author Info
-author_name:        "Iris of Lys"
-author_email:       
-github_username:    irisoflys
-twitter_username:   irisoflys
+author_name:        "Liz Lorena Berberena"
+github_username:    lizberberena
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -22,7 +20,7 @@ paginate: 3
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: irisoflys
+    shortname: lizberberena
 
 # Site Build
 highlighter: rouge
