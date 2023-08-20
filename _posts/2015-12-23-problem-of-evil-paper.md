@@ -16,8 +16,8 @@ excerpt: "This was my final paper for my Interdisciplinary Honors Seminar course
 img: evil.png
 ---
 
-<img src="{{ site.url }}/img/evil.png" class="img-fluid">
-<!--<p class="caption">ouo</p>
+<!--<img src="{{ site.url }}/img/evil.png" class="img-fluid">
+<p class="caption">ouo</p>
 -->
 
 <h2>The Birth of Mass Killers: When Wrong Becomes “Right”</h2>
