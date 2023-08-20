@@ -15,10 +15,9 @@ tags:
   - internet
   - culture
 excerpt: "This was a paper I did for my Structure of Information course in which I analyze the talk page of a specific Wikipedia article. For this paper I chose the article for the 1993 Waco siege."
-img: wikipedia.png
 ---
 
-<img src="{{ site.url }}/img/wikipedia.png" class="img-fluid">
+<!--<img src="{{ site.url }}/img/wikipedia.png" class="img-fluid">-->
 
 <h2>An Evaluation of the Waco Siege Wikipedia Article: A Report on Crowdsourced Encyclopedia Article Creation</h2>
 
