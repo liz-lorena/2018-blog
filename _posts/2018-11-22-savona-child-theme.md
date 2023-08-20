@@ -11,7 +11,7 @@ img: blogpostsexcerptdemonstration.png
 
 <p><first-letter>T</first-letter>his is the theme page of this place's current theme where I will document the most recent changes to it. I have also provided the alterations I have made to the theme's CSS code on Github.</p>
 
-<p style="text-align:center"><a href="https://github.com/irisoflys/personal-savona-child-theme" target="_blank">Source Code</a></p>
+<p style="text-align:center"><a href="https://github.com/lizberberena/personal-savona-child-theme" target="_blank">Source Code</a></p>
 
 <p>The WordPress theme I chose was <a href="https://wordpress.org/themes/savona/" target="_blank">Savona</a> by <a href="https://optimathemes.com/" target="_blank">Optima Themes</a>. Here is the preview image of the original theme I worked with:</p>
 
@@ -39,5 +39,5 @@ img: blogpostsexcerptdemonstration.png
 
 <ul>
 	<li><a href="https://wordpress.org/themes/savona/" target="_blank">Savona</a> WordPress theme by <a href="https://optimathemes.com/" target="_blank">Optima Themes</a></li><li><a href="http://wordpress.org/themes" target="_blank">WordPress theme directory</a></li>
-	<li>My <a href="https://github.com/irisoflys/personal-savona-child-theme" target="_blank">Savona Child Theme CSS</a> on Github</li>
+	<li>My <a href="https://github.com/lizberberena/personal-savona-child-theme" target="_blank">Savona Child Theme CSS</a> on Github</li>
 </ul>
