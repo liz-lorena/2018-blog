@@ -29,7 +29,7 @@ img: firstportfolio.png
 
 <img src="{{ site.url }}/img/firstportfolio.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://irisoflys.com/2016" target="_blank">Visit Site</a> • <a href="https://github.com/irisoflys/2016" target="_blank">Source Code</a></p>
+<p class="caption"><a href="https://lizlorena.com/2016" target="_blank">Visit Site</a> • <a href="https://github.com/lizberberena/2016" target="_blank">Source Code</a></p>
 
 <p>My first stable portfolio site was made thanks to the work of <a href="http://taniarascia.com" target="_blank">Tania Rascia</a>, a web developer who makes extremely useful tutorials for web development and design. This particular theme was made available by her for free on Github. She has a <a href="https://www.patreon.com/taniarascia" target="_blank">Patreon</a>, so you can support her there!</p>
 
@@ -47,7 +47,7 @@ img: firstportfolio.png
 
 <img src="{{ site.url }}/img/secondportfolio.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://irisoflys.com/2017" target="_blank">Visit Site</a>  • <a href="https://github.com/irisoflys/2017" target="_blank">Source Code</a></p>
+<p class="caption"><a href="https://lizlorena.com/2017" target="_blank">Visit Site</a>  • <a href="https://github.com/lizberberena/2017" target="_blank">Source Code</a></p>
 
 <p>The final portfolio of mine from 2017 was a more ambitious and complicated theme for me to do. I had figured out that naming your pages <em>index.html </em>and placing them inside a folder with the name of the page made it so that you wouldn't need to type <em>.html </em>in the URL, but this got a little bit out of hand as I found myself making copies of the same code again and again. Ultimately this portfolio was a failure for me, but I was trying to get more creative with it. I had been looking for inspiration online and came across <a href="http://arielbeninca.com" target="_blank">Ariel Beninca</a>'s awesome portfolio website. At the time, her site was mainly white with graphics of her work in an alternating pattern, so I just had to try to replicate the layout. I began making some colorful graphics to represent my items, which I still use on my current portfolio. One of the bad choices I made, however, was making not only a fixed menu, but a fixed footer.</p>
 
