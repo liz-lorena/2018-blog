@@ -28,7 +28,7 @@ img: gametimeline.png
 
 <h2>Theme Store</h2>
 
-<p>I still haven't added any themes to the theme store, but I did update the terms of service and privacy policy. See it here: <a href="https://github.com/irisoflys/themes" target="_blank">https://github.com/irisoflys/themes</a>.</p>
+<p>I still haven't added any themes to the theme store, but I did update the terms of service and privacy policy. See it here: <a href="https://github.com/lizberberena/themes" target="_blank">https://github.com/lizberberena/themes</a>.</p>
 
 <h2>Log Out: A Cyber Harassment Survival Guide</h2>
 
