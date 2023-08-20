@@ -14,7 +14,7 @@ img: phonyreality.png
 
 <h3 id="tictactoe">Tic Tac Toe in Visual Basic</h3>
 
-<img src="{{ site.url }}/img/tictactoe2.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/tictactoe2.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
 
@@ -22,7 +22,7 @@ img: phonyreality.png
 
 <p>The final project requirements included adding features to the game, so I had the weird idea of making a 3x4 board and a timed mode for each board. The loop works like this: you type in the names of the two players, then select a board size and if it's timed or not. The way the game worked is that you had to choose who played first, and you had to click to end your turn, which is pretty bad design, but it's what I thought up on the fly at the time.</p>
 
-<img src="{{ site.url }}/img/TicTacToe.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/TicTacToe.png" alt="" class="img-fluid"/>
 
 <h4>The Take Away</h4>
 
@@ -30,7 +30,7 @@ img: phonyreality.png
 
 <h3 id="wof">Wheel of Fortune using Scratch</h3>
 
-<img src="{{ site.url }}/img/scratchgame2.png" class="img-fluid">
+<img src="https://lizlorena.com/img/scratchgame2.png" class="img-fluid">
 
 <p class="caption"><a href="https://scratch.mit.edu/projects/45665508/" target="_blank">Play on Scratch.MIT.edu</a></p>
 
@@ -42,7 +42,7 @@ img: phonyreality.png
 
 <h3 id="hauntedmansion">Haunted Mansion Text Adventure in Java</h3>
 
-<img src="{{ site.url }}/img/escapegame.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/escapegame.png" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/lizberberena/oop-text-adventure" target="_blank">View Source Code</a></p>
 
@@ -56,7 +56,7 @@ img: phonyreality.png
 
 <h3 id="metalloid">Metalloid in Unity 2D</h3>
 
-<img src="{{ site.url }}/img/metalloidmenu.gif" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/metalloidmenu.gif" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
 
@@ -64,8 +64,8 @@ img: phonyreality.png
 
 <p>It would be cool if you gave this game a play, but I'm not lying in the Itch.io description that this is the worst thing I've ever made. In the game, you're a space soldier escaping your ship which has become infested with hell-spawn. <a href="https://en.wikipedia.org/wiki/Doom_(1993_video_game)" target="_blank"><em>Sound familiar?</em></a> The game ends when you fly to Earth. I made the third level by myself, and it differs from the rest of the game because there you fly a ship and shoot asteroids.</p>
 
-<img src="{{ site.url }}/img/Metalloid2.png" alt="" class="img-fluid">
-<img src="{{ site.url }}/img/Metalloid3.png" alt="" class="img-fluid">
+<img src="https://lizlorena.com/img/Metalloid2.png" alt="" class="img-fluid">
+<img src="https://lizlorena.com/img/Metalloid3.png" alt="" class="img-fluid">
 
 <h4>The Take Away</h4>
 
@@ -73,7 +73,7 @@ img: phonyreality.png
 
 <h3 id="phonyreality">Phony Reality in Unity 3D</h3>
 
-<img src="{{ site.url }}/img/phonyrealitymenuyoyod.gif" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/phonyrealitymenuyoyod.gif" alt="" class="img-fluid"/>
 
 <p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
 
@@ -83,8 +83,8 @@ img: phonyreality.png
 
 <p>Also, not to spoil anything, but the themes in this game are something I want to incorporate in my current game as well.</p>
 
-<img src="{{ site.url }}/img/PhonyReality2.png" alt="" class="img-fluid"/>
-<img src="{{ site.url }}/img/PhonyReality3.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/PhonyReality2.png" alt="" class="img-fluid"/>
+<img src="https://lizlorena.com/img/PhonyReality3.png" alt="" class="img-fluid"/>
 
 <h4>The Take Away</h4>
 
