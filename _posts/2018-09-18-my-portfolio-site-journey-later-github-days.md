@@ -23,7 +23,7 @@ img: portfoliomid2018desktop.png
 
 <img src="{{ site.url }}/img/thirdportfolio.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://irisoflys.com/2018" target="_blank">Visit Site</a> • <a href="https://github.com/irisoflys/2018" target="_blank">Source Code</a></p>
+<p class="caption"><a href="https://lizlorena.com/2018" target="_blank">Visit Site</a> • <a href="https://github.com/lizberberena/2018" target="_blank">Source Code</a></p>
 
 <p>I was really proud of the portfolio site that I worked on in the winter of 2017 into early 2018. For this design, I was inspired by the clear and elegant double panel look of front-end developer <a href="http://www.kathrynmcclintock.com/" target="_blank">Kathryn McClintock's</a> small resume site. I combined this design with an original Z-shaped design, wherein the right panel would have a large photo of me, the left panel would be scroll-able, and the legs of the Z would have the navigation menu on the left panel and links to my social media on the right panel. I learned how to better use the Bootstrap grid layout system, how to use background properties on images, how to change icons into words, how to make scrolling content boxes, and the awesome Jekyll site generator, which I also used to make my own little blog page complete with <a href="http://longqian.me/2017/02/09/github-jekyll-tag/" target="_blank">tags</a>. I also focused on making my website mobile-ready with a dropdown button menu that only appeared when the browser became a certain width.</p>
 
@@ -41,7 +41,7 @@ img: portfoliomid2018desktop.png
 
 <img src="{{ site.url }}/img/portfoliomid2018mobile.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="{{ site.url }}/2019" target="_blank">Visit Site</a>  • <a href="https://github.com/irisoflys/2019">Source Code</a></p>
+<p class="caption"><a href="{{ site.url }}/2019" target="_blank">Visit Site</a>  • <a href="https://github.com/lizberberena/2019">Source Code</a></p>
 
 <img src="{{ site.url }}/img/portfoliomid2018desktop.png" alt="" class="img-fluid"/>
 
