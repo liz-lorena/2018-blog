@@ -16,7 +16,7 @@ img: phonyreality.png
 
 <img src="{{ site.url }}/img/tictactoe2.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/irisoflys/games" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>The first complete computer game I ever made was Tic Tac Toe in Visual Basic.NET. I made it for my final project in my Visual Basic programming elective class in my junior year of high school. Visual Basic was the first programming language I ever learned, and I fell in love with what programming was in that class and haven't stopped dreaming of a career in tech since. I remember spending mornings and evenings working on this game tirelessly on the school computers. It's a super small game, and it isn't coded great, but I remember the work feeling like a lot and feeling super satisfied when it ran exactly how I wanted it to. </p>
 
@@ -44,9 +44,9 @@ img: phonyreality.png
 
 <img src="{{ site.url }}/img/escapegame.png" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/irisoflys/oop-text-adventure" target="_blank">View Source Code</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/oop-text-adventure" target="_blank">View Source Code</a></p>
 
-<p>This wasn't the first game I made with Java, but it was definitely the better one I made and something that I had actually wanted to make for a while. The first complete Java game I made was my computer science final project my freshman year of college, and it was basically just Black Jack but without a GUI. You can check out that train wreck <a href="https://github.com/irisoflys/cs-blackjack" target="_blank">here</a>, but be warned: the code is atrocious because it's an enormous loop around many smaller loops.</p>
+<p>This wasn't the first game I made with Java, but it was definitely the better one I made and something that I had actually wanted to make for a while. The first complete Java game I made was my computer science final project my freshman year of college, and it was basically just Black Jack but without a GUI. You can check out that train wreck <a href="https://github.com/lizberberena/cs-blackjack" target="_blank">here</a>, but be warned: the code is atrocious because it's an enormous loop around many smaller loops.</p>
 
 <p>Anyway, the second complete Java game I did was a text adventure which takes place in a haunted mansion. It was the final group project for my junior object oriented programming class in college. The controls are simple as it's just entering commands from the list of available commands, as is typical in text adventures. I grasped Object classes much easier in this class, which made for a better game with much <em>much</em> better code. I had always wanted to make a game like this, so I can cross that off my bucket list.</p>
 
@@ -58,7 +58,7 @@ img: phonyreality.png
 
 <img src="{{ site.url }}/img/metalloidmenu.gif" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/irisoflys/games" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>This was my partnered midterm project for my game design class in my junior year of college. It was the first time I ever made anything with Unity, and it was a lot of fun to learn how to use this software and how to make a 2D side-scroller. Unfortunately, it was also quite stressful to make this game because of the glitches in Unity's cloud collaboration feature. Also I found that I don't like the click-and-drag nature of this software because it makes everything feel super imprecise.</p>
 
@@ -75,7 +75,7 @@ img: phonyreality.png
 
 <img src="{{ site.url }}/img/phonyrealitymenuyoyod.gif" alt="" class="img-fluid"/>
 
-<p class="caption"><a href="https://github.com/irisoflys/games" target="_blank">Download Zip from Google Drive</a></p>
+<p class="caption"><a href="https://github.com/lizberberena/games" target="_blank">Download Zip from Google Drive</a></p>
 
 <p>This game was for my final project in my game design class my junior year of college. For the second half of the class, we learned to use Unity to make 3D games, and I thought that this was a little easier. The lag, the terrain builder, and the click-and-drag system is probably still the worst part of Unity, and I should learn to handle those better. </p>
 
@@ -103,12 +103,12 @@ img: phonyreality.png
 <p>All Games:</p>
 
 <ul>
-	<li><a href="https://github.com/irisoflys/games" target="_blank">Tic Tac Toe</a> in Visual Basic</li>
+	<li><a href="https://github.com/lizberberena/games" target="_blank">Tic Tac Toe</a> in Visual Basic</li>
 	<li><a href="https://scratch.mit.edu/projects/45665508/" target="_blank">Wheel of Fortune</a> using Scratch</li>
-	<li><a href="https://github.com/irisoflys/cs-blackjack" target="_blank">Black Jack</a> in Java</li>
-	<li><a href="https://github.com/irisoflys/oop-text-adventure" target="_blank">Haunted Mansion Text Adventure</a> in Java</li>
-	<li><a href="https://github.com/irisoflys/games" target="_blank">Metalloid</a> in Unity 2D</li>
-	<li><a href="https://github.com/irisoflys/games" target="_blank">Phony Reality</a> in Unity 3D</li>
+	<li><a href="https://github.com/lizberberena/cs-blackjack" target="_blank">Black Jack</a> in Java</li>
+	<li><a href="https://github.com/lizberberena/oop-text-adventure" target="_blank">Haunted Mansion Text Adventure</a> in Java</li>
+	<li><a href="https://github.com/lizberberena/games" target="_blank">Metalloid</a> in Unity 2D</li>
+	<li><a href="https://github.com/lizberberena/games" target="_blank">Phony Reality</a> in Unity 3D</li>
 </ul>
 
 <p>Software and Languages:</p>
