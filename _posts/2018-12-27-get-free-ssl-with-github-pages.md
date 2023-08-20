@@ -71,7 +71,7 @@ Your new SSL is thanks to <a href="https://letsencrypt.org/" target="_blank">Let
 
 <h3> References</h3>
 - <a href="https://help.github.com/articles/setting-up-an-apex-domain/" target="_blank">"Setting up an apex domain" on Github Help</a>
-- <a href="https://irisoflys.com/2018-blog/posts/how-to-connect-a-custom-domain-to-your-site-for-free">"How to Connect a Custom Domain or Subdomain to your Site For Free Using Namecheap"</a>
+- <a href="https://lizlorena.com/2018-blog/posts/how-to-connect-a-custom-domain-to-your-site-for-free">"How to Connect a Custom Domain or Subdomain to your Site For Free Using Namecheap"</a>
 - <a href="https://letsencrypt.org/" target="_blank">Let'sEncrypt.org</a>, providers of the free SSL
 - <a href="https://pages.github.com" target="_blank">Github Pages</a>
 - <a href="https://namecheap.com" target="_blank">Namecheap.com</a>
