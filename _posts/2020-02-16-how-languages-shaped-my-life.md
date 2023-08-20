@@ -34,7 +34,7 @@ img: hippocrene-german.jpeg
 
 
 
-<img src="https://raw.githubusercontent.com/irisoflys/img/master/hippocrene-german.jpeg" class="img-fluid" alt="">
+<img src="https://raw.githubusercontent.com/lizberberena/img/master/hippocrene-german.jpeg" class="img-fluid" alt="">
 <p class="caption">my precious personal copy</p>
 
 
