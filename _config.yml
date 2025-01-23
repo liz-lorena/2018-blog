@@ -1,10 +1,10 @@
 # Site Info
-title:              "Blog of Liz"
+title:              "Liz's Blog"
 description:        "This is the old blog of Liz."
 
 # Author Info
-author_name:        "Liz Lorena Berberena"
-github_username:    lizberberena
+author_name:        "Liz Lorena"
+github_username:    liz-lorena
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
